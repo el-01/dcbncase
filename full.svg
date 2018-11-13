@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="337.74309"
-     inkscape:cy="1138.4609"
+     inkscape:zoom="1"
+     inkscape:cx="521.06664"
+     inkscape:cy="2009.2071"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -7946,5 +7946,16 @@
        x="86.24231"
        y="467.66614"
        ry="1.8864839" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="191.82292"
+       y="476.91876"
+       id="text10688"><tspan
+         sodipodi:role="line"
+         id="tspan10686"
+         x="191.82292"
+         y="476.91876"
+         style="fill:#808080;stroke-width:0.26458332">Licensed under TAPR</tspan></text>
   </g>
 </svg>
