@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="521.06664"
-     inkscape:cy="2009.2071"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="418.64834"
+     inkscape:cy="1963.7103"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7931,31 +7931,51 @@
        x="18.733"
        y="483.31247" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.10466573;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.10436913;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10619"
-       width="90.945335"
-       height="57.859333"
-       x="83.247124"
-       y="464.26096"
-       ry="2.1381562" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09502011;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10619-9"
-       width="84.954979"
-       height="51.048981"
-       x="86.24231"
-       y="467.66614"
-       ry="1.8864839" />
+       width="107.07948"
+       height="48.863281"
+       x="104.94566"
+       y="467.96527"
+       ry="1.8057127" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="191.82292"
-       y="476.91876"
+       x="25.314007"
+       y="468.68686"
        id="text10688"><tspan
          sodipodi:role="line"
          id="tspan10686"
-         x="191.82292"
-         y="476.91876"
+         x="25.314007"
+         y="468.68686"
          style="fill:#808080;stroke-width:0.26458332">Licensed under TAPR</tspan></text>
+    <g
+       id="g6385"
+       transform="translate(16.404171)">
+      <circle
+         r="1.4512826"
+         cy="518.14691"
+         cx="85.581245"
+         id="path6328"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.097;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4512826"
+         cy="466.64688"
+         cx="85.581245"
+         id="path6328-1"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.097;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4512826"
+         cy="518.14691"
+         cx="198.58125"
+         id="path6328-2"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.097;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4512826"
+         cy="466.64688"
+         cx="198.58125"
+         id="path6328-16"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.097;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
